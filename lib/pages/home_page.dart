@@ -12,6 +12,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
+
         width: double.infinity,
         decoration: BoxDecoration(
          gradient: LinearGradient(
